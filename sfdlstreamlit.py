@@ -1,1 +1,2 @@
-created new python file
+import streamlit
+streamlit.title ("My snowflake Application"

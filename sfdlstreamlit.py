@@ -1,3 +1,3 @@
 import streamlit
-import snowflake.connector
+import snowflake
 streamlit.title ("My snowflake Application")
